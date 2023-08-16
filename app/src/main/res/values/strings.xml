@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Guess the Logo</string>
+    <string name="main_text">Welcome to Guess the Logo Quiz</string>
+    <string name="correct_count">Correct</string>
+    <string name="false_count">Wrong</string>
+    <string name="question_count">Quesiton</string>
+    <string name="start">Start</string>
+    <string name="success">Success</string>
+    <string name="retry">Retry</string>
+    <string name="zero_true">OMG are you serious ??</string>
+    <string name="one_true">Sorry pretty bad</string>
+    <string name="two_true">mmmm I think not enough</string>
+    <string name="three_true">Not Bad</string>
+    <string name="four_true">Good</string>
+    <string name="five_true">Awesome</string>
+</resources>
